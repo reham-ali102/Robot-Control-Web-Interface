@@ -1,4 +1,4 @@
-# Robot-Control-and-Command-Monitoring-Interface
+
 # **Robot Control Web Interface**
 
 This project is a web-based interface that allows users to control a robot's movement by sending directional commands. The commands are stored in a MySQL database for tracking and later retrieval. The web interface is built using HTML, CSS, JavaScript, and PHP.
